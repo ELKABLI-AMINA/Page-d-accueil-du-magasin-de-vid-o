@@ -1,0 +1,22 @@
+ul
+{
+    display:flex ;
+    list-style-type: none;
+    align-items: center;
+}
+li{
+    padding: 15px;
+    display:inline;
+}
+a:hover{
+    color: blue;
+}
+.cards{
+    display: flex;
+}
+
+.card {
+    border: 1px solid black;
+    padding: 20px;
+    margin: 1ch;
+}
